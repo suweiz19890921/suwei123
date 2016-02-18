@@ -1,0 +1,22 @@
+ 整个工程的文件分为两个文件夹
+一.resources ：图片等资源文件
+二.classes 类文件
+1.slider：侧滑
+GPLeftSliderViewController
+
+2.tabbar ：首页界面
+3.news：综合
+GPNewsViewController，GPBlogViewController，GPHotViewController，GPRemondViewController
+
+4. tweet 动弹
+TweetNewViewController，TweetHotViewController，TweetMineViewController
+
+5.more 更多
+
+6.discover 发现
+DiscoverTableViewController
+
+7 mine 我的
+MineTableViewController
+
+8.thirdParty： 第三方类库
